@@ -1,2 +1,2 @@
-# fundamoment
-Building a community that pays it forward.
+# collab unity
+Building a platform where ideas come to life through collaboration.
