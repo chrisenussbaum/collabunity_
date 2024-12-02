@@ -1,2 +1,2 @@
 # collab unity
-Building a platform where ideas come to life through collaboration.
+Building a platform where ideas happen through collaboration.
